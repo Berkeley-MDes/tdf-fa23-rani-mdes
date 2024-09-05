@@ -15,10 +15,19 @@ I think that laser cutting is already a very explored tool. I chose to use it to
 
 For my assignment I made a bookmark that can be used for textbooks or reading books. I wanted to make it personal to me, so I put my name on it along with an image of a crown and a dress form. This is because my name means "queen" in Hindi and I like to sew in my free time. I also chose the thinner plywood option so that it would be thin enough that it wouldn't bend book pages. 
 
+![rani_initial](https://github.com/user-attachments/assets/b29765c1-246e-470d-b6d9-486a08e994b1) 
+My intial design was just my name with the full spelling and letters. However to make it more interesting, I then added a crown to the top of the R and added the dress form instead of the I.
+
+![illustrator_file](https://github.com/user-attachments/assets/c51cee51-85e8-4c8c-8343-4acd5b7e4310)
+This is the updated design. I also added small rectangle cut outs around the edges of the bookmark so that some light can come through.
 
 
+https://github.com/user-attachments/assets/3303cfda-bf22-4016-864e-a512ea2eb216
+Here is a video showing my piece being laser cut. I took longer that expected. In the future and would choose less images to raster so that more light and texture can be added to the piece.
 
-<img width="200" alt="Cool Phone Stand made of rocks" src="https://github.com/s-almeda/tdf-template-repo/assets/21287693/bc2f1864-af5a-456d-9a71-e1d80d51190c">
+![IMG_4970](https://github.com/user-attachments/assets/781958f3-669c-4c2c-8b5d-ebde55840f3c)
+This is the final product. After I cut it, I sanded it to remove some of the burn marks. In the future, I would add more cut outs and more details to the letters. I would also make the hole smaller since a thread does not need to be that big to fit inside it.
+
 
 ---
 
