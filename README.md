@@ -1,43 +1,25 @@
-# Hello DES INV 202 Student!
-Welcome to your new GitHub repository! 
+# Example Report 1 - Week of 09/05/2024 #
 
-If you’re new to GitHub, you can think of this as a shared file space (like a Google Drive folder, or a like a USB drive that’s hosted online.) 
+## Reflections ##
+This week, I designed a did some research on Rhino, set up my github, explore the wiki page, and laser cut a bookmark. Firstly, although I have had experience with github, I found that I had forgotten a lot of aspects of how to use a github repository. To help, I watched a few videos to refamiliarize myself and asked classmates clarifying questions on what file they were editing and how they were doing so. 
 
-This is your space to store project files, videos, PDFs, notes, images, etc., and (hopefully, neatly) organize so it's easy for viewers (and you!) to navigate. That said, it’s super easy for you to share any file or folder with us (your TDF instructional team) - just send us the link! 
+I also took some time to do research on laser cutting and 3D printing. I completed the required videos and quizzes and working with a design specialist to ensure that I knew the intricacies of laser cutting. I first started by cutting a simple square into plywood, and then egraving a line across the square to practice that technique. This set me up well for the small laser cutting assignment we needed to complete. 
 
-The specific file that I’m typing into right now is the **README.md** for this repo. 
-##### (💡 TIP: The .md indicates that we’re using [Markdown formatting.](https://www.markdownguide.org/cheat-sheet/)) #####
-<h6> (💡 TIP 2: GitHub Markdown supports <a href="https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2"> <em>HTML formatting</em> too, including emojis 😄</a>, in case that helps!) </h6>
+For the laser cutting assignment, I made a small bookmark. Something I learned is to increase the raster percentage in the laser cutting settings, to improve the quality of the image. I also worked with Cody to make sure that my illustrator file would be compatible for rastering. I also learned from a classmate that it is useful to sand my product after to clean it up.
 
-### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/desinv-202/wiki/3.0-Weekly-Submissions). They might look something like this: ###
----
-# Example Report 1 - Week of 08/21/2023 #
-This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
+## Speculations ##
+
+I think that laser cutting is already a very explored tool. I chose to use it to make a bookmark, and I think in the future it would be helpful to create some sort of software that would predict burn marks on laser cut pieces. Right now I saw that you can predict the time it will take, but I think that predicting burn marks would also be helpful and avoid wasting material
+
+## Images and write up of laser cut bookmark ##
+
+For my assignment I made a bookmark that can be used for textbooks or reading books. I wanted to make it personal to me, so I put my name on it along with an image of a crown and a dress form. This is because my name means "queen" in Hindi and I like to sew in my free time. I also chose the thinner plywood option so that it would be thin enough that it wouldn't bend book pages. 
+
+
+
 
 <img width="200" alt="Cool Phone Stand made of rocks" src="https://github.com/s-almeda/tdf-template-repo/assets/21287693/bc2f1864-af5a-456d-9a71-e1d80d51190c">
 
 ---
-
-or, if you prefer, you can create separate files and link to them here, like so:
-
----
-[Example Report 1](weekly-reports/example-report-1.md)
----
-
-Either way, it's time to start making this space your own! If you want to save these instructions -- Don't worry, I already copied them over to another file for you [here.](welcomeREADME.md) So feel empowered to delete everything in this README.md and start documenting! 
-
-sparkles,
-
-your TDF TA, shm :sparkles:
-
-PS: let me know if you have any questions!!
-
---- 
-PPS: 
-## Quick Links, compiled here for your convenience: ##
-
-- [TDF Wiki](https://github.com/Berkeley-MDes/desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
-- [Google Drive Folder](https://drive.google.com/drive/folders/1OjFgu4llHn-2WayQFVWRKFyOkQ_WaQRx?usp=drive_link) - slides and other resources
-- [bCourses](https://bcourses.berkeley.edu/courses/1528355) - where the grading happens
 
 
