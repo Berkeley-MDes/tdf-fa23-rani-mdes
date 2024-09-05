@@ -1,4 +1,4 @@
-# Example Report 1 - Week of 09/05/2024 #
+# Progress Report 1 - Week of 09/05/2024 #
 
 ## Reflections ##
 This week, I designed a did some research on Rhino, set up my github, explore the wiki page, and laser cut a bookmark. Firstly, although I have had experience with github, I found that I had forgotten a lot of aspects of how to use a github repository. To help, I watched a few videos to refamiliarize myself and asked classmates clarifying questions on what file they were editing and how they were doing so. 
